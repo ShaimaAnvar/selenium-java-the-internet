@@ -16,3 +16,4 @@ https://the-internet.herokuapp.com/
 ## Automated Scenarios
 
 - Browser Launch
+- Valid Login
