@@ -18,4 +18,5 @@ https://the-internet.herokuapp.com/
 - Browser Launch
 - Valid Login
 - Checkbox Selection
-- Dropdowns
+- Dropdowns Selection
+- JavaScript Alert Handling
