@@ -20,3 +20,4 @@ https://the-internet.herokuapp.com/
 - Checkbox Selection
 - Dropdowns Selection
 - JavaScript Alert Handling
+- Dynamic Loading (Explicit Wait)
